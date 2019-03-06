@@ -1,6 +1,6 @@
 <?php
 
-namespace Privilege;
+namespace Ling\Privilege;
 
 
 Class PrivilegeUser
